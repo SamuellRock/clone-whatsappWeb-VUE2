@@ -1,24 +1,11 @@
-# whatsapp-vue
-
 ## Project setup
-```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
 npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+# Introdução 
+É um clone do chat do whatsapp web, nele da para digitar e aparece na area de mensagem, mantendo todo o layout, igual o whatsapp.
+Feito para exercitar programação usando o framework VUE
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Homepage
+![chat](README-img/Tela-chat.JPG)
